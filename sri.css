@@ -1,0 +1,80 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9fff9;
+}
+
+.resume {
+    background-color: #f5eeee;
+    width: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(239, 84, 84, 0.1);
+}
+
+h5 {
+    margin-bottom: 10px;
+    color: #e5dcdc;
+}
+h1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #171515;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+ol {
+    list-style-type:hl;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+p {
+    line-height: 1.5;
+}
+.resume {
+    border: 2px solid #ae3232;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(238, 86, 86, 0.1);
+    margin: 20px; /* Margin added */
+}
+.skills{
+    float: left;
+    margin-left;
+    color: rgb(122, 61, 61);
+}
+
+h2 {
+    margin: 20px 0 10px;
+    color: #975d5d;
+}
+h3 {
+    margin: 20px 0 10px;
+    color: #975d5d;
+}
+.photo{
+    width: 300px;
+    height: 300px;
+    border-radius: 80%;
+}
+.right{
+    float:left;
+    margin-right:80px ;
+}
+.name{
+    float: right;
+    margin-right: 120px;
+    color: rgb(122, 61, 61);
+}
